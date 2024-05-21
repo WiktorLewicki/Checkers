@@ -64,6 +64,7 @@ class place{
 		int pl1=i+r1, pl2=j+r2, fs=0;
 		while(gd(pl1, pl2)){
 			if(fs&&p[pl1][pl2]==5) return true;
+			else if(fs) return false;
 			if(comp(pl1, pl2, gracz)) return false;
 			if(comp(pl1, pl2, !gracz)) fs=1;
 			pl1+=r1, pl2+=r2;
