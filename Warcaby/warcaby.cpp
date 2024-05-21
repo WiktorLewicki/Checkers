@@ -2,7 +2,7 @@
  * Jest to dopiero szkielet projektu w trakcie budowy
  *	Projekt jest w trakcie tworzenia. 
  * Aktualnie jest jedynie zapisany silnik, można zagrać w dwóch graczy
- * może zawierać błędy
+ * może zawierać błędy, schodź zostało całkiem dobrze przetestowane
  * Gra na przestrzeni ok. 2-3 dni zostanie rozwinięta w następujący sposób:
  * Wszystkie błędy zostaną usunięte
  * Graczem 2 będzie przeciwnik czyli bot który będzie rozważał graf możliwości ruchów z określoną głębokością
