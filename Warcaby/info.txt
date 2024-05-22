@@ -17,7 +17,7 @@ nie zostanie wykonany.
 
 warcaby rosyjskie, dodatkowe informacje:
 Pion może bić do tyłu
-Pion staje się damką od razu po znalezieniu się w ostatnim rzędzie, jeśli znajdzie się tam w wyniku bicia, może w tym samym ruchu kontynuować bicie.
+Pion staje się damką od razu po znalezieniu się w ostatnim rzędzie, jeśli znajdzie się tam w wyniku bicia, oraz po staniu się damą ma kolejne bicie, musi je wykonać.
 Kiedy istnieje kilka możliwych bić, można wykonać dowolne (niekoniecznie maksymalne).
 Miłej gry!
 
