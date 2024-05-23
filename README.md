@@ -1,5 +1,7 @@
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
+Bot gra bardzo dobrze.
+
 Za niedługo zostanie dodany interfejs graficzny
 
 WARCABY ROSYJSKIE
