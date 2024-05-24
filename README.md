@@ -1,3 +1,5 @@
+Czas pracy na ten moment: 8h
+
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
 Bot gra bardzo dobrze.
