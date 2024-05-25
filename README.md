@@ -1,5 +1,7 @@
 Czas pracy na ten moment: 13h
 
+Prezentacja: https://youtu.be/DVKmLDrgYy0
+
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
 Bot gra bardzo dobrze.
