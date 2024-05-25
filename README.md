@@ -1,18 +1,20 @@
-Czas pracy na ten moment: 8h
+Czas pracy na ten moment: 12h
 
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
 Bot gra bardzo dobrze.
 
-Za niedługo zostanie dodany interfejs graficzny
+Za niedługo kod zostanie poprawiony na dużo bardziej czytelny
 
 WARCABY ROSYJSKIE
 
+(Instrukcja do wersji bez interfejsu:
 Sterowanie:
 x- nr rzędu
 y- nr kolumny
 zaznacz pionek wpisując x y
 zaznacz pole na który chcesz przenieść pionek podając x y
+)
 
 Jeżeli na zaznaczonym polu nie będzie twojego pionka, wykonasz nielegalny ruch,
 lub nie wykorzystasz obowiązkowego bicia- zostanie o tym wyświetlona instrukcja na ekranie, a ruch
