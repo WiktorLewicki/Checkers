@@ -1,4 +1,4 @@
-Czas pracy na ten moment: 12h
+Czas pracy na ten moment: 13h
 
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
