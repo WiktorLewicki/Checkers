@@ -6,7 +6,7 @@ Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
 Bot gra bardzo dobrze.
 
-Za niedługo kod zostanie poprawiony na dużo bardziej czytelny
+Możliwe, że za niedługo kod zostanie poprawiony na dużo bardziej czytelny
 
 WARCABY ROSYJSKIE
 
