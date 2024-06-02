@@ -1,12 +1,11 @@
-Czas pracy na ten moment: 13h
+Czas pracy na ten moment: 14h
 
 Prezentacja: https://youtu.be/BaGiwTuKq3o
 
 Jestem w pełni autorem całego kodu. Wiktor Lewicki.
 
-Bot gra bardzo dobrze.
-
-Możliwe, że za niedługo kod zostanie poprawiony na dużo bardziej czytelny
+Bot gra bardzo dobrze, jest w praktyce nie do pokonania.
+Algorytm bota to przeszukiwanie grafu z głębokością 8 (minmax), z optymalizacją alpha beta pruning.
 
 WARCABY ROSYJSKIE
 
