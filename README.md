@@ -1,30 +1,23 @@
-Czas pracy na ten moment: 14h
+Work time at the moment: 14h
+Project is created in C++ Builder 6.
 
-Prezentacja: https://youtu.be/BaGiwTuKq3o
+Presentation: https://youtu.be/BaGiwTuKq3o
 
-Jestem w pełni autorem całego kodu. Wiktor Lewicki.
+I am the sole author of the entire code. Wiktor Lewicki.
 
-Bot gra bardzo dobrze, jest w praktyce nie do pokonania.
-Algorytm bota to przeszukiwanie grafu z głębokością 8 (minmax), z optymalizacją alpha beta pruning.
+The bot plays very well, practically unbeatable.
+The bot's algorithm is graph traversal with a depth of 8 (minmax), with alpha-beta pruning optimization.
 
-WARCABY ROSYJSKIE
+RUSSIAN CHECKERS
 
-(Instrukcja do wersji bez interfejsu:
-Sterowanie:
-x- nr rzędu
-y- nr kolumny
-zaznacz pionek wpisując x y
-zaznacz pole na który chcesz przenieść pionek podając x y
-)
+If you want to play: Warcaby/wersja z interfejsem/Program/Warcaby.exe
 
-Jeżeli na zaznaczonym polu nie będzie twojego pionka, wykonasz nielegalny ruch,
-lub nie wykorzystasz obowiązkowego bicia- zostanie o tym wyświetlona instrukcja na ekranie, a ruch
-nie zostanie wykonany.
+If there is no your pawn on the selected field, you will make an illegal move,
+or if you don't use the mandatory capture - instructions will be displayed on the screen, and the move
+will not be executed.
 
-warcaby rosyjskie, dodatkowe informacje:
-Pion może bić do tyłu
-Pion staje się damką od razu po znalezieniu się w ostatnim rzędzie, jeśli znajdzie się tam w wyniku bicia, może w tym samym ruchu kontynuować bicie.
-Kiedy istnieje kilka możliwych bić, można wykonać dowolne (niekoniecznie maksymalne).
-Miłej gry!
-
-
+Russian checkers, additional information:
+A pawn can capture backward
+A pawn becomes a king immediately after reaching the last row, if it gets there through a capture, it can continue capturing in the same move.
+When there are several possible captures, you can make any of them (not necessarily the maximum one).
+Enjoy the game!
