@@ -1,6 +1,6 @@
 //Autor: Wiktor Lewicki
 /*
- * bot gra dobrze, głębokość sprawdzanego grafu to 4
+ * bot gra dobrze, głębokość sprawdzanego grafu to 8
  * odpowiada zazwyczaj do 3 sekund, przy damach nie widziałem żeby zwalniał, aczkolwiek
  * napewno graf będzie dużo większy
  * */
