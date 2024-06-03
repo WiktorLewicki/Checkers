@@ -5,6 +5,8 @@ Presentation: https://youtu.be/BaGiwTuKq3o
 
 I am the sole author of the entire code. Wiktor Lewicki.
 
+The bot and the engine are located in the files bot.cpp and silnik.cpp.
+
 The bot plays very well, practically unbeatable.
 The bot's algorithm is graph traversal with a depth of 8 (minmax), with alpha-beta pruning optimization.
 
