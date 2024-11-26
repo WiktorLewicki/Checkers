@@ -1,3 +1,7 @@
+Attention!
+I am aware that the code in warcaby.cpp is very messy, especially with the repetitions. However, I didn't fix it because C++ Builder 6 is quite old technology, and I don't have it installed. I am leaving the project for reference only, and I might fix it someday.
+Best regards :)
+
 Work time at the moment: 14h
 Project is created in C++ Builder 6.
 
